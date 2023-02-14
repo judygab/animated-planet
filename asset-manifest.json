@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/animated-planet/static/css/main.5509324d.css",
+    "main.js": "/animated-planet/static/js/main.60e03f43.js",
+    "static/js/787.014b22d5.chunk.js": "/animated-planet/static/js/787.014b22d5.chunk.js",
+    "static/media/planet-2.svg": "/animated-planet/static/media/planet-2.59d62b502fd09b90b222fb2a5c8f0f56.svg",
+    "static/media/sphere-1.svg": "/animated-planet/static/media/sphere-1.3b3b2cb5cbbbb20a946f7f977fc2c5b4.svg",
+    "static/media/sphere-2.svg": "/animated-planet/static/media/sphere-2.0db913ac78fd763ef422c341f40e01c4.svg",
+    "static/media/logo.svg": "/animated-planet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/planet-1.svg": "/animated-planet/static/media/planet-1.20859bd62ed3ec776ae1694d880cd7c6.svg",
+    "index.html": "/animated-planet/index.html",
+    "static/media/star-3.svg": "/animated-planet/static/media/star-3.86dc8392065dd1e77df5a47fdbb62818.svg",
+    "static/media/star-2.svg": "/animated-planet/static/media/star-2.a28f30f9ea9c5adce21f13742acb038a.svg",
+    "static/media/star-1.svg": "/animated-planet/static/media/star-1.f9bfa0d214060eba6dc1d439f09327a5.svg",
+    "static/media/star-4.svg": "/animated-planet/static/media/star-4.f9bfa0d214060eba6dc1d439f09327a5.svg",
+    "main.5509324d.css.map": "/animated-planet/static/css/main.5509324d.css.map",
+    "main.60e03f43.js.map": "/animated-planet/static/js/main.60e03f43.js.map",
+    "787.014b22d5.chunk.js.map": "/animated-planet/static/js/787.014b22d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5509324d.css",
+    "static/js/main.60e03f43.js"
+  ]
+}

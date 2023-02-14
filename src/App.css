@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #0B0B0F;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +22,9 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-weight: bold;
+  padding: 20px;
+  position: relative;
 }
 
 .App-link {
@@ -35,4 +38,57 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.hero-container {
+  position: relative;
+  width: 100%;
+}
+
+.star {
+  position: absolute;
+}
+
+.star-1 {
+  top: 5%;
+  left: 10%;
+}
+
+.star-2 {
+  right: 10%;
+  top: -10%;
+}
+
+.star-3 {
+  right: 7%;
+  top: 15%;
+}
+
+.star-4 {
+  bottom: -20%;
+  right: 7%;
+}
+
+.sphere-left {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.sphere-right {
+  position: absolute;
+  top: 100px;
+  right: 0px;
+}
+
+.planet-1 {
+  position: absolute;
+  top: 400px;
+  right: 0px;
+}
+
+.planet-2 {
+  position: absolute;
+  left: 10%;
+  top: 70%;
 }
